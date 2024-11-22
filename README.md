@@ -13,16 +13,14 @@
 - Swiper JS library
 
 ## Ссылка на макет проекта
-
 Посмотреть [Макет](<https://www.figma.com/design/y9p9QyiKzvm2lKMUZ6NO3W/Interior-Design-Webflow-Website-Template-(Community)-(Copy)-(Copy)-(Copy)?node-id=1-5&t=FqZG8vElNl3Gwksg-1>)
 
 ## Ссылка на GitHub Pages
-
+https://alexkhabibov.github.io/final_project/
 
 ## Ссылка на деплой сайта
 
-
-Посмотреть 
+ 
 ## Реализованные задачи
 
 1. Применение HTML, CSS, JavaScript, Vue.js.
