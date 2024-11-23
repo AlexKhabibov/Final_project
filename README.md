@@ -11,15 +11,16 @@
 - Grid
 - Git
 - Swiper JS library
+- JS
 
 ## Ссылка на макет проекта
 Посмотреть [Макет](<https://www.figma.com/design/y9p9QyiKzvm2lKMUZ6NO3W/Interior-Design-Webflow-Website-Template-(Community)-(Copy)-(Copy)-(Copy)?node-id=1-5&t=FqZG8vElNl3Gwksg-1>)
 
-## Ссылка на GitHub Pages
+## Ссылка на README GitHub Pages
 https://alexkhabibov.github.io/final_project/
 
 ## Ссылка на деплой сайта
-
+https://final-project-bulnlmcjh-alexkhabibovs-projects.vercel.app
  
 ## Реализованные задачи
 
