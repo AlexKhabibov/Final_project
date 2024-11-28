@@ -17,10 +17,10 @@
 Посмотреть [Макет](<https://www.figma.com/design/y9p9QyiKzvm2lKMUZ6NO3W/Interior-Design-Webflow-Website-Template-(Community)-(Copy)-(Copy)-(Copy)?node-id=1-5&t=FqZG8vElNl3Gwksg-1>)
 
 ## Ссылка на README GitHub Pages
-https://alexkhabibov.github.io/final_project/
+Посмотреть [Github README](<https://alexkhabibov.github.io/final_project/>)
 
 ## Ссылка на деплой сайта
-https://final-project-bulnlmcjh-alexkhabibovs-projects.vercel.app
+Посмотерть [Сайт](<https://final-project-bulnlmcjh-alexkhabibovs-projects.vercel.app>)
  
 ## Реализованные задачи
 
@@ -71,4 +71,4 @@ npm run build
 
 ### Настройка конфигурации
 
-Посмотреть [Configuration Reference](https://cli.vuejs.org/config/)
+[Configuration Reference](https://cli.vuejs.org/config/)
